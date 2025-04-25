@@ -1,0 +1,11 @@
+Output of the script
+
+Windows Paths:
+This is a windows path: C:\Test Path One
+This is a windows path: G:\test\path\six
+
+Unix Paths:
+This is a unix path: /test path two
+This is a unix path: /test_path_three
+This is a unix path: /tmp/testpath4
+This is a unix path: /private/tmp/test path 5
